@@ -9,20 +9,20 @@ h2 {
   padding-top: 0;
 }
 nav a {
-  padding: 5px 10px;
-  text-decoration: none;
+  padding: 10px 50px 30px 10px;
+  text-decoration: underline;
   margin-top: 10px;
   display: inline-block;
-  background-color: #eee;
+  background-color: rgb(122, 184, 241);
   border-radius: 4px;
 }
 nav a:visited, a:link {
   color: #334953;
 }
 nav a:hover {
-  color: #039be5;
-  background-color: #CFD8DC;
+  color: #e5036c;
+  background-color: rgb(239, 252, 98);
 }
 nav a.active {
-  color: #039be5;
+  color: #e5036c;
 }
